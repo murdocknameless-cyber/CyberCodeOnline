@@ -107,7 +107,7 @@
 		},
 		"title": {
 			"eng": "Chat Disabled",
-			"trans": "Chat desabilitado"
+			"trans": "Chat deshabilitado"
 		}
 	},
 	"Quest": {
@@ -292,7 +292,7 @@
 		"bulkCrafting": {
 			"name": {
 				"eng": "Bulk Crafting",
-				"trans": "Crafting a granel"
+				"trans": "Fabricación en Masa"
 			}
 		},
 		"clanDecryptShard": {
@@ -2159,7 +2159,7 @@
 		},
 		"emailRequired": {
 			"eng": "Email is required",
-			"trans": "correo electronico es requerido"
+			"trans": "Correo electrónico es requerido"
 		},
 		"emailSent": {
 			"eng": "An password reset email has been sent to {email}",
@@ -2233,7 +2233,7 @@
 			},
 			"received": {
 				"eng": "FRAGMENTS RECEIVED:",
-				"trans": "Fragmentos recibidos:"
+				"trans": "FRAGMENTOS RECIBIDOS:"
 			}
 		}
 	},
@@ -4827,7 +4827,7 @@
 			},
 			"name": {
 				"eng": "My Apartment",
-				"trans": "Mi Depa"
+				"trans": "Mi Apartamento"
 			},
 			"toMainHub": {
 				"name": {
